@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgrandreve_osaka_com=self.webpackChunkgrandreve_osaka_com||[]).push([[453],{3939:function(e,n,t){t.r(n),t.d(n,{Head:function(){return o}});var a=t(4041),r=t(4246);n.default=()=>(0,r.Y)(a.Fragment,null,"404");const o=()=>(0,r.Y)(a.Fragment,null,(0,r.Y)("meta",{name:"robots",content:"noindex"}),(0,r.Y)("meta",{httpEquiv:"Refresh",content:"0; URL=https://grandreve-osaka.com"}))}}]);
-//# sourceMappingURL=component---src-pages-404-tsx-b2483ce31c378d9d681e.js.map
